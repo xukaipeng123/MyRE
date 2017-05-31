@@ -1,2 +1,2 @@
-Git is a xkp1 distributed version control system.
+Git is a xkp2 distributed version control system.
 Git is free software.
